@@ -1,0 +1,10 @@
+0.5.2 experimental Nexus beta
+Built with Zig 0.13.0, optimized and stripped.
+F7 marker polling, beep, and handler removed. F8 toggle and 50,000 primitive
+budget unchanged. Legacy capture key remains disabled.
+Loader fixture PASS: version API forwarding, automatic ASI loading, unsupported
+host refusal. Package installer install/verify/uninstall fixture PASS.
+Installed personal testing DLL SHA256 checked unchanged before/after packaging.
+This Nexus build was not installed into the player's game or gameplay tested.
+Earlier 0.5 testing showed a user-reported traversal improvement. Full story
+stability and other hardware remain unvalidated.

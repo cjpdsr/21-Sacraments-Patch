@@ -1,0 +1,30 @@
+{
+  "source_build": "0.5.1 private test, same scheduling adjustment; not public F7 source",
+  "session_scope": "87 seconds mixed startup, loading and fog testing; no landmark labels",
+  "budget": 50000,
+  "suballocation": false,
+  "all_hitch_records": 99,
+  "no_committed_creations": 60,
+  "no_tracked_creation_calls": 20,
+  "under_one_creation_thread_ms": 54,
+  "local_memory_snapshots_mib": [
+    {
+      "usage": 6799,
+      "budget": 31419,
+      "nonlocal": 384
+    },
+    {
+      "usage": 9820,
+      "budget": 24216,
+      "nonlocal": 414
+    }
+  ],
+  "interpretation": "Mixed creation-related and non-creation synchronization activity; exact critical path and potential allocator benefit unresolved.",
+  "limitations": [
+    "Not a controlled traversal benchmark.",
+    "Present intervals are not GPU durations.",
+    "Nested KMT time already included in call time.",
+    "Thread sums overlap; entire completed calls can cross interval boundaries.",
+    "Fence identity and residency/work-completion ownership unknown."
+  ]
+}

@@ -1,0 +1,83 @@
+21 Sacraments Patch - Original Contributions License
+Version 1.0 - October 26, 2026
+
+Original project contributions by bigbullet3 (GitHub: cjpdsr).
+All rights reserved to the extent the contributor holds the relevant rights,
+except for the permissions expressly granted below.
+
+SCOPE
+
+These terms apply only to original, copyrightable contributions to
+21 Sacraments Patch for which bigbullet3 has the right to grant permission,
+including original SH2 adaptation code, documentation, and research write-ups.
+They do not claim ownership of the entire repository or every line in a mixed
+source file. See docs/LICENSE-SCOPE.md for the component distinction.
+
+Ishimura Patch by lukeman3000 remains governed by its unchanged license in
+LICENSE and src/LICENSE. MinHook and other third-party material retain their
+own licenses and notices. These terms do not replace, amend, restrict, or grant
+exceptions to those independent licenses. Any use combining covered original
+contributions with upstream or third-party material must satisfy all applicable
+terms. Permission from bigbullet3 does not substitute for permission from Luke
+or another rights holder where their permission is required.
+
+YOU MAY
+
+- Download, read, study, and build the covered contributions for personal,
+  noncommercial use.
+- Modify them and test your modifications privately for noncommercial use.
+- Use the patch to play the game for personal, noncommercial use.
+- Link to the official project instead of uploading a copy.
+- Make copies and forks within GitHub to the extent authorized by GitHub's
+  applicable platform terms. This does not grant permission for external
+  redistribution, packaged releases, or commercial use.
+
+CREDIT REQUIRED
+
+For any redistribution or reuse authorized by written permission, retain this
+license and existing notices, and clearly state in the README or download page:
+
+  Based on 21 Sacraments Patch by bigbullet3:
+  https://github.com/cjpdsr/21-Sacraments-Patch
+  Based on Ishimura Patch by lukeman3000:
+  https://github.com/lukeman3000/ishimura-patch
+
+Identify your modifications and do not present your version as the original
+project or an official release from either author. Credit alone does not grant
+redistribution or commercial permission.
+
+WRITTEN PERMISSION REQUIRED
+
+Except for the express permissions above, you may not do either of the following
+with the covered contributions without prior written permission from bigbullet3:
+
+1. Re-upload, mirror, redistribute, or publish copies of the covered source or
+   compiled artifacts, whether unmodified or modified. This includes modified
+   releases, ports containing covered code, modpacks, collections, installers,
+   and bundles distributed on Nexus Mods or other external sites or services.
+2. Use the covered contributions commercially, including selling them, charging
+   for access, monetizing their redistribution, incorporating them into a paid
+   product, or supplying them as part of a commercial service.
+
+Ask for permission through the official project or the bigbullet3 Nexus account.
+Permission must identify the authorized use; silence is not permission.
+The author may grant separate written terms for a particular use.
+
+LIMITS AND EXISTING RIGHTS
+
+These terms concern the covered expression and code, not ownership of general
+ideas, public facts, independently written implementations, or rights available
+under applicable law. They do not restrict ordinary gameplay videos, reviews,
+or discussion that do not redistribute covered code or artifacts.
+
+These terms apply to distributions expressly accompanied by this license.
+They do not revoke permissions already granted for copies under an earlier
+license, or alter another contributor's rights without that person's agreement.
+
+DISCLAIMER
+
+THE COVERED CONTRIBUTIONS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE, AND NONINFRINGEMENT. TO THE EXTENT PERMITTED BY APPLICABLE
+LAW, THE CONTRIBUTOR SHALL NOT BE LIABLE FOR CLAIMS, DAMAGES, OR OTHER LIABILITY
+ARISING FROM USE OF THE COVERED CONTRIBUTIONS.
