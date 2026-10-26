@@ -4,9 +4,7 @@ Experimental native traversal-stutter mitigation for **Silent Hill 2 Remake**.
 Created by **bigbullet3**. **Based on Ishimura Patch by lukeman3000**:
 https://github.com/lukeman3000/ishimura-patch
 
-This repository contains the **public Nexus beta 0.5.2 source**, with **F8 toggle only**.
-The private tester build's F7 landmark handler is absent. Legacy configurable
-capture support remains in the inherited source but is forced off in this port.
+This repository contains the **public Nexus beta 0.5.2 source**, with **F8 toggle**.
 
 ## What works today
 
